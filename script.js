@@ -31,7 +31,7 @@ pauseBtn.addEventListener('click', () => {
 });
 
 function showNotification() {
-  alert('Нажми на надпись "Happy Birthday Mr. President" а ну и песенку послушай:))');
+  alert('Нажми на надпись "Happy Birthday", а, ну и песенку послушай:))');
 }
 
 function generateBalloons(count = 20) {
